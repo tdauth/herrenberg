@@ -7,6 +7,5 @@
 
 ## TODOs
 
-* Look at <https://upload.wikimedia.org/wikipedia/commons/e/e1/Merianstich_Herrenberg-2.jpg> and add a second wall to the moat of the city.
 * Fix the order of objectives and shorten them all.
 * Fix the initial assignment of the hero Jerg Ratgeb.
