@@ -11,6 +11,7 @@
 
 * [Custom sound / music for your scenario](https://aok.heavengames.com/cgi-bin/aokcgi/display.cgi?action=ct&f=4,44670,,30)
 * [Coat of Arms of Herrenberg](https://de.wikipedia.org/wiki/Herrenberg#/media/Datei:Wappen_Herrenberg.svg)
+* [Thumbnail](https://de.wikipedia.org/wiki/Deutscher_Bauernkrieg#/media/Datei:Rohrbach-verbrennung-1525.jpg)
 
 ## TODOs
 
