@@ -2,6 +2,8 @@
 
 2 player map for Age of Empires II: Definitive Edition which features the [German Peasants' War](https://en.wikipedia.org/wiki/German_Peasants%27_War) in the city of [Herrenberg](https://en.wikipedia.org/wiki/Herrenberg).
 
+Subscriber the mod ingame and host a multiplayer game by selecting "User Scenario" and choosing this map.
+
 ![](Wappen_Herrenberg.svg?raw=true)
 
 * [Mod](https://www.ageofempires.com/mods/details/211192/)
