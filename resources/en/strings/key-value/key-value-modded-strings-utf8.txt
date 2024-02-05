@@ -1,0 +1,2 @@
+320155 "<GREEN>Peasant: We are close to the city of Herrenberg! Let's find a good spot to build our base and prepare our attack!"
+320156 "<GREEN>Peasant: We should visit every village and try to ally them. They might help us with this battle!"
