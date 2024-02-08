@@ -17,7 +17,7 @@
 320171 "<GREY>Villager: Thank you for the gold! We will support your battle against the city! You can send us Battering Rams and we will construct Trebuchets for you. Your population limit is increased now!"
 320172 "- Convert Siege Rams into Trebuchets in Haslach."
 320173 "<GREY>Villager: Why couldn't you protect our village? Our time has ended."
-320174 "<PURPLE>Monk: Welcome peasants! I hope you believe in god and are faithful to him. Bring us 5 relics and we will support your cause."
+320174 "<PURPLE>Monk: Welcome peasants! I hope you are pious servants of god. Bring us 5 relics and we will support you!"
 320175 "- Bring <Relics>/5 relics to the Monastery of Mönchberg."
 320176 "<PURPLE>Monk: You have brought us 5 relics. God must be with you. We will support you from now on! You can send us Heavy Scorpions and we will construct Bombard Cannons for you."
 320177 "- Convert Heavy Scorpions into Bombard Cannons in Kayh."
