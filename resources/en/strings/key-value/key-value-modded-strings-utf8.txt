@@ -97,7 +97,7 @@
 320251 "Wendel Hipler"
 320252 "Florian Geyer"
 320253 "Thomas Müntzer"
-320254 "Peasant's Farm (150 lumber)\n\nA peasant's farm which produces animals."
+320254 "Peasant's Farm (150 lumber)\n\nA peasant's farm which produces animals and trains Conquistadors and provides Spanish technologies if available."
 320255 "Sheep (25 food)\n\nA healthy animal to feed our troops."
 320256 "Cow (35 food)\n\nA healthy animal to feed our troops."
 320257 "Goat (25 food)\n\nA healthy animal to feed our troops."

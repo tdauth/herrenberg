@@ -97,7 +97,7 @@
 320251 "Wendel Hipler"
 320252 "Florian Geyer"
 320253 "Thomas Müntzer"
-320254 "Bauernhof (150 Holz)\n\nEin Bauernhof, der Tiere produziert."
+320254 "Bauernhof (150 Holz)\n\nEin Bauernhof, der Tiere produziert und Konquistadoren ausbildet und spanische Technologien anbietet falls verfügbar."
 320255 "Schaf (25 Nahrung)\n\nEin gesundes Tier, um Eure Truppen zu ernähren."
 320256 "Kuh (35 Nahrung)\n\nEin gesundes Tier, um Eure Truppen zu ernähren."
 320257 "Ziege (25 Nahrung)\n\nEin gesundes Tier, um Eure Truppen zu ernähren."
