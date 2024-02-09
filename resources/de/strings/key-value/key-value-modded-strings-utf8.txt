@@ -101,7 +101,7 @@
 320255 "Schaf (25 Nahrung)\n\nEin gesundes Tier, um Eure Truppen zu ernähren."
 320256 "Kuh (35 Nahrung)\n\nEin gesundes Tier, um Eure Truppen zu ernähren."
 320257 "Ziege (25 Nahrung)\n\nEin gesundes Tier, um Eure Truppen zu ernähren."
-320258 "Horse (50 Nahrung)\n\nEin gesundes Tier, um Eure Truppen zu ernähren."
+320258 "Pferd (50 Nahrung)\n\nEin gesundes Tier, um Eure Truppen zu ernähren."
 320259 "Feuerturm (125 Gold und 100 Stein)\n\nEin mächtiger Turm."
 320260 "+ Besiegt die Stadt Herrenberg."
 320261 "+ Zerstört nicht die Stiftskirche."
