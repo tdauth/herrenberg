@@ -20,3 +20,4 @@ Subscriber the mod ingame and host a multiplayer game by selecting "User Scenari
 
 * Fix the order of objectives and shorten them all.
 * Fix the initial assignment of the hero Jerg Ratgeb.
+* <https://forums.ageofempires.com/t/umlaute-from-the-websites-mod-description-not-shown-properly-in-the-mod-manager/248687>
