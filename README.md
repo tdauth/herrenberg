@@ -8,6 +8,7 @@ Subscriber the mod ingame and host a multiplayer game by selecting "User Scenari
 
 * [Mod](https://www.ageofempires.com/mods/details/211192/)
 * [German Wikipedia page about the castle](https://de.wikipedia.org/wiki/Schloss_Herrenberg)
+* [German dubbing request](https://www.hoer-talk.de/threads/age-of-empires-ii-de-szenario-coop-herrenberg.36392/)
 
 ## Info
 
