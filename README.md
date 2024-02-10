@@ -4,7 +4,7 @@
 
 Subscriber the mod ingame and host a multiplayer game by selecting "User Scenario" and choosing this map.
 
-![](Wappen_Herrenberg.svg?raw=true)
+![](thumbnail.jpg?raw=true)
 
 * [Mod](https://www.ageofempires.com/mods/details/211192/)
 * [German Wikipedia page about the castle](https://de.wikipedia.org/wiki/Schloss_Herrenberg)
