@@ -60,7 +60,7 @@
 320214 "<YELLOW>Bauernjörg: You have defeated me this one time but it won't happen a second time!"
 320215 "- Convert Bombard Cannons into Haufnices in Mönchberg."
 320216 "- Convert Hand Cannoneers into Janissaries in Kayh."
-320217 "<GREEN>Villager: We can use these tunnels surrounded by Palisade Walls to reach other camps."
+320217 "<GREEN>Villager: We can use these tunnels surrounded by rocks to reach other camps."
 320218 "<BLUE>Villager: The Imperial Age gives us many new technologies and units!"
 320219 "<GREEN>Villager: The Imperial Age gives us many new technologies and units!"
 320220 "<BLUE>Villager: We have found secret plans of the Swabian League! We can research Spies now!"
