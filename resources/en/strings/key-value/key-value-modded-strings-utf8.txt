@@ -36,7 +36,7 @@
 320190 "- Destroy the marketplace to Tübingen."
 320191 "<GREEN>Peasant: We have destroyed the marketplace to Tübingen. The City of Herrenberg will get no more gold and troops from Tübingen! It also has a lower population limit now!"
 320192 "- Destroy the marketplace to Stuttgart."
-320193 "<GREEN>Peasant: We have destroyed the marketplace to Stuttgart.The City of Herrenberg will get no more gold and troops from Tübingen! It also has a lower population limit now!"
+320193 "<GREEN>Peasant: We have destroyed the marketplace to Stuttgart. The City of Herrenberg will get no more gold and troops from Stuttgart! It also has a lower population limit now!"
 320194 "<GREEN>Peasant: We have discovered some animals. Maybe they will be useful for us."
 320195 "<GREEN>Peasant: We have defeated the City of Herrenberg!"
 320196 "<BLUE>Jakob Engelfried of Kuppingen: God will resurrect me!"
