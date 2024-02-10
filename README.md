@@ -16,6 +16,7 @@ Subscriber the mod ingame and host a multiplayer game by selecting "User Scenari
 * [Coat of Arms of Herrenberg](https://de.wikipedia.org/wiki/Herrenberg#/media/Datei:Wappen_Herrenberg.svg)
 * [Old Thumbnail](https://de.wikipedia.org/wiki/Deutscher_Bauernkrieg#/media/Datei:Rohrbach-verbrennung-1525.jpg)
 * [New Thumbnail](https://upload.wikimedia.org/wikipedia/commons/a/a7/M_Merian_-_Ansicht_von_Herrenberg_-_Kupferst.kol._1643_%28BVuHSi14%29.jpg)
+* [Swabians Civilization](https://www.reddit.com/r/aoe2/comments/pwg58h/another_civ_concept_the_swabians/)
 
 ## TODOs
 
