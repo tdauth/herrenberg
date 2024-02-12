@@ -19,6 +19,6 @@ Subscriber the mod ingame and host a multiplayer game by selecting "User Scenari
 ## TODOs
 
 * Fix the order of objectives and shorten them all.
-* Fix the initial assignment of the hero Jerg Ratgeb.
-* Fix lag for host player on allying villages.
-* <https://forums.ageofempires.com/t/umlaute-from-the-websites-mod-description-not-shown-properly-in-the-mod-manager/248687>
+* Fix the initial assignment of the hero Jerg Ratgeb (works sometimes).
+* Fix lag for host player on allying villages: <https://forums.ageofempires.com/t/massive-lag-when-changing-diplomacy-and-unlocking-castle-age/248800>
+* Umlaute in mod description: <https://forums.ageofempires.com/t/umlaute-from-the-websites-mod-description-not-shown-properly-in-the-mod-manager/248687>
